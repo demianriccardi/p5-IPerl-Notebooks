@@ -4,19 +4,11 @@ A repository of useful notebooks.  The notebooks can be downloaded and run using
 
 Three notebooks in support of the article in review at JCIM:
 
-HackaMol/JCIM/
+- [HackaMol/JCIM/](http://nbviewer.ipython.org/github/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/JCIM)
 
-[HackaMol-Atom](http://nbviewer.ipython.org/github.com/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/JCIM/HackaMol-Atom.ipynb)
 
-[HackaMol-AtomGroup](http://nbviewer.ipython.org/github.com/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/JCIM/HackaMol-AtomGroup.ipynb)
 
-[HackaMol-Molecule](http://nbviewer.ipython.org/github.com/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/JCIM/HackaMol-Molecule.ipynb)
-
-HackaMol/ENM/
-
-[HackaMol-GNM](http://nbviewer.ipython.org/github.com/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/ENM/HackaMol-GNM.ipynb)
-
-[HackaMol-GNM-altCG](http://nbviewer.ipython.org/github.com/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/ENM/HackaMol-GNM-altCG.ipynb)
+- [HackaMol/ENM/](http://nbviewer.ipython.org/github/demianriccardi/p5-IPerl-Notebooks/blob/master/HackaMol/ENM)
 
 
 
